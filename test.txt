@@ -1,1 +1,3 @@
 To check if the github email will add up the contributions
+
+To chekc the name to be shown for commits
